@@ -18,6 +18,12 @@ https://github.com/XintongHao/XintongHao_RESUME/tree/master/HXT_friendlychat_fir
 ## Friendlychat app Test
 
 Test Cases
-
+<img src="https://github.com/XintongHao/FriendlyChat-and-test/blob/master/Screenshot/Jietu20171208-000918.jpg">
 
 Monkey Test
+
+<img src="https://github.com/XintongHao/FriendlyChat-and-test/blob/master/Screenshot/Jietu20171208-000000.jpg ">
+<img src=" https://github.com/XintongHao/FriendlyChat-and-test/blob/master/Screenshot/Jietu20171208-000036.jpg">
+<img src="https://github.com/XintongHao/FriendlyChat-and-test/blob/master/Screenshot/Jietu20171208-000052.jpg ">
+<img src="https://github.com/XintongHao/FriendlyChat-and-test/blob/master/Screenshot/Jietu20171208-000115.jpg ">
+<img src="https://github.com/XintongHao/FriendlyChat-and-test/blob/master/Screenshot/Jietu20171208-000128.jpg ">
