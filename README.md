@@ -1,6 +1,6 @@
 # FriendlyChat-and-test
 
-Explanation (or Excuse): Sorry that I didn't test my resume website. Because I think my resume website is only a simple website without any function like signup or other interaction. So I test my friendlychat app, it has more functions to test. Thank you for understanding.
+Explanation (not Excuse...): Sorry that I didn't test my resume website. Because I think my resume website is only a simple website without any function like signup or other interaction. So I test my friendlychat app, it has more functions to test. Thank you for understanding.
 
 ## HXT_Friendlychat_Firebase
 - [x] Follow the tutorial to build a firebase web chat Friendlychat.
